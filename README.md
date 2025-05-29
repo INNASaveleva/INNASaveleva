@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Привет! Я Inna — начинающий Technical Writer
 
-<!--
-**INNASaveleva/INNASaveleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Сейчас изучаю:
+- Git и GitHub
+- API и документацию REST
+- Markdown, Confluence, Swagger, VS Code
+- Инфостиль и структуру технических текстов
 
-Here are some ideas to get you started:
+🧰 Навыки в процессе освоения:
+- Git (через терминал и VS Code)
+- Документация с примерами запросов и JSON
+- Шаблоны и инструкции в Notion и Google Docs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Моя цель — писать понятную, структурированную документацию для ИТ-команд и пользователей.
+
+📚 Учусь по собственному плану, который составила вместе с ИИ (ChatGPT).
+
+📍Базируюсь на Кипре в Лимассоле, работаю удалённо.
+
+🤝 Открыта к предложениям о стажировке или совместных проектах!
+
